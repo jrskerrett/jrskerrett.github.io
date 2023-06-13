@@ -544,7 +544,13 @@ main {
 
 .service-icon-box img { margin: auto; }
 
-.service-content-box { text-align: center; }
+.filter-orange {
+    filter: invert(60%) sepia(63%) saturate(287%) hue-rotate(6deg) brightness(101%) contrast(101%);
+}
+
+.service-content-box {
+    text-align: center;
+}
 
 .service-item-title { margin-bottom: 7px; }
 
