@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="52.178925mm"
+   viewBox="0 0 40 52.178925"
+   version="1.1"
+   id="svg30712"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30709" />
+  <g
+     id="layer1"
+     transform="translate(-71.770311,-75.560453)">
+    <g
+       id="g32148"
+       transform="matrix(0.76102169,0,0,0.76102169,17.151548,18.05731)">
+      <rect
+         style="fill:#f0790e;fill-opacity:0.987654;stroke:#d4ac4a;stroke-width:0.247033"
+         id="rect30768"
+         width="9.7529659"
+         height="35.752968"
+         x="3.5764146"
+         y="-171.2298"
+         transform="matrix(0.75478211,-0.65597558,-0.65597558,-0.75478211,0,0)" />
+      <path
+         id="path31996"
+         style="fill:#f0790e;fill-opacity:0.987654;stroke:#f0790e;stroke-width:0.247033"
+         d="m 73.718201,99.187786 7.361366,-6.397709 23.453073,26.985703 -7.361363,6.39771 z m 6.39771,7.361364 -6.39771,-7.361364 26.985699,-23.453076 6.39771,7.361367 z m 13.226624,-24.416728 7.361365,-6.397712 23.45308,26.9857 -7.36137,6.39772 z m 2.055103,61.818088 7.361362,-6.39771 -23.453069,-26.98571 -7.361367,6.39772 z m -6.39771,-7.36137 6.39771,7.36137 26.985702,-23.45308 -6.39771,-7.36137 z m 26.022042,-9.694 7.36137,-6.39771 -23.453076,-26.9857 -7.361365,6.397708 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.987654;stroke:#f0790e;stroke-width:0.264583"
+         x="-93.645874"
+         y="114.89312"
+         id="text32053"
+         transform="scale(-1,1)"><tspan
+           id="tspan32051"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="-93.645874"
+           y="114.89312">i</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.987654;stroke:#f0790e;stroke-width:0.264583"
+         x="-112.0163"
+         y="113.86213"
+         id="text32111"
+         transform="scale(-1,1)"><tspan
+           id="tspan32109"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="-112.0163"
+           y="113.86213">o</tspan></text>
+    </g>
+  </g>
+</svg>
